@@ -191,7 +191,7 @@
 
 
 
-<div class="d-flex w-75 justify-content-evenly align-items-center ">
+<div class="d-flex w-100 justify-content-evenly align-items-center ">
     <img class="pastga_qaragan" src="https://www.notion.so/cdn-cgi/image/format=auto,width=256,quality=100/front-static/shared/illustrations/blocks/topPeekI.png" alt="">
     <div class="Powerful_building_blocks">
     Powerful building blocks
@@ -206,8 +206,83 @@
         <div class="h4 Visualize_filter">Visualize, filter & sort any way you want</div>
         <span class="w-50 d-block show_only_tasks">Show only tasks assigned to you, or items marked as urgent. Break down any project in the way that’s most helpful to you.</span> 
     </div>
+
+    <img src="../../src/assets/II_slider_1.png" class="w-100 mt-3 II_slider" alt="">
+    <div class="button_sliders w-50 d-flex justify-content-around m-auto mt-4 ">
+        <button class="button_sliders_item">
+            Board
+        </button>
+
+        <button class="button_sliders_item">
+            Table
+        </button>
+
+        <button class="button_sliders_item">
+            Timeline
+        </button>
+
+        <button class="button_sliders_item">
+            Calendar
+        </button>
+
+        <button class="button_sliders_item">
+            Galelery
+        </button>
+
+        <button class="button_sliders_item">
+            List
+        </button>
+
+    </div>
 </div>
 
+
+
+
+
+
+<div class="d-flex Customize_the_info_you_track justify-content-around d-flex mt-5 ">
+    <div class="Customize_the_info p-4 pe-0">
+
+    <i class="far fa-eye text-primary"></i>
+
+
+        <p>Customize the info you track</p>
+        <span class="w-75 d-block">Create your own labels, tags, owners, and more, so everyone has context and everything stays organized.</span>
+        <div class="d-flex justify-content-end w-100">
+        <img src="../assets/core product.png" class="w-75 img-fluid " alt="">
+
+        
+    </div>    
+    </div>
+    <div class="Customize_the_info p-4 pe-0">
+        <i class="fas fa-palette text-primary"></i>
+        <p>Build any page, communicate any idea</p>
+        <span class="w-75 d-block">Everything is drag and drop in Notion — images, toggles, to-do’s, even embedded databases.</span>
+        <div class="d-flex justify-content-end w-100">
+        <img src="../assets/build-any-page-communicate-any-idea.png" class="w-75 img-fluid" alt="">
+
+        
+    </div>    
+    </div>
+</div>
+
+
+<div class="Notion_adapts_to mt-5 d-flex justify-content-center ">
+<div class="w-75     m-auto  text-center h3 f-500 Notion_adapts_to_your_needs">
+"Notion adapts to your needs. It’s as minimal or as powerful as you need it to be."
+
+</div>
+<div class="m-auto mt-4">
+    <div class="Notion_adapts_to_box  d-flex gap-2 m-auto mt-2">
+    <img src="../assets/match-group.png" class="img-fluid" alt="">
+    <div>
+        <div class="h6 Rahim_Makani">Rahim Makani</div>
+        <span>Director of Product, Matchgroup</span>
+    </div>
+</div>
+</div>
+</div>
 </div>
 
 </template>

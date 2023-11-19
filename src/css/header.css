@@ -209,7 +209,7 @@ margin-left: auto;
 .boards{
     background-color: #F6F5F4;
     width: 100%;
-    height: 1100px;
+    /* height: 1100px; */
     margin-top: -15px;
     z-index: -1;
     border-radius: 20px;
@@ -222,5 +222,51 @@ margin-left: auto;
     font-size: large;
 }
 .show_only_tasks{
-    font-size: 19px;
+    font-size: 17x;
+}
+.II_slider{
+    border-radius: 20px;
+}
+.button_sliders_item{
+    width: 70px;
+    height: 35px;
+    font-size: 14px;
+    border: 1px solid #c7c5c4;
+    background-color: transparent;
+    border-radius: 10px;
+    transition: background-color 0.2s ease;
+}
+.button_sliders_item:hover{
+    background-color: #dbd3d3;
+}
+.Customize_the_info{
+    background-color: #F6F5F4;
+    border-radius: 20px;
+    padding-bottom: 0px!important;
+    width: 48%;
+}
+.Customize_the_info p{
+    font-weight: 700;
+    font-size: 20px;
+}
+.Customize_the_info span{
+    font-size: 16px;
+    /* font-family: sans-serif; */
+    /* font-weight: 500; */
+}
+.Customize_the_info div{
+    width: 75%;
+    display: block;
+    /* height: 600px; */
+
+}
+.fa-eye, .fa-palette{
+    font-size: 18px;
+}
+
+.Notion_adapts_to{
+    flex-direction:column;   
+}
+.Rahim_Makani{
+    font-weight: 700;
 }
