@@ -283,6 +283,43 @@
 </div>
 </div>
 </div>
+
+
+
+<div class="Every_team text-center  mt-4">Every team, side-by-side</div>
+
+<div class="d-flex justify-content-around mt-4">
+    
+<div class="Every_team_card d-flex justify-content-center Every_team_card_active align-items-center">
+<img src="../assets/engineering-v2.png" class="img-fluid" alt="">
+<span>Engineering</span>
+</div>
+
+<div class="Every_team_card d-flex justify-content-center align-items-center">
+<img src="../assets/design-v2.png" class="img-fluid" alt="">
+<span>Design</span>
+</div>
+
+<div class="Every_team_card d-flex justify-content-center align-items-center">
+<img src="../assets/product.png" class="img-fluid" alt="">
+<span>Product</span>
+</div>
+
+
+<div class="Every_team_card d-flex justify-content-center align-items-center">
+<img src="../assets/marketing.png" class="img-fluid" alt="">
+<span>Marketing</span>
+</div>
+
+
+<div class="Every_team_card d-flex justify-content-center align-items-center">
+<img src="../assets/hr-v2.png" class="img-fluid" alt="">
+<span>HR</span>
+</div>
+
+
+
+</div>
 </div>
 
 </template>

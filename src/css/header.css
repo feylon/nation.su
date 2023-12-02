@@ -2,6 +2,9 @@
 .wordmark_wordmark__gPyj1{
     height:32px;
 }
+.container{
+    /* width: 80           %!important; */
+}
 .main_menus{
     align-items: center;
 }
@@ -269,4 +272,30 @@ margin-left: auto;
 }
 .Rahim_Makani{
     font-weight: 700;
+}
+.Every_team{
+    font-size: 50px;
+    font-weight: 600;
+}
+.Every_team_card{
+    background-color: #F6F5F4;
+    width: 150px;
+    border: 1px solid #F6F5F4;
+    border-radius: 10px;
+    height: 110px;
+    flex-direction: column;
+    cursor: pointer;
+    transition: 1s background-color ease;
+}
+.Every_team_card_active{
+    background-color: transparent;
+
+}
+.Every_team_card img{
+    width: 70px;
+    height: 70px;
+}
+.Every_team_card span{
+    font-size: 14px;
+    font-weight: 600;
 }
